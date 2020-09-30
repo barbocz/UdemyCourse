@@ -1,6 +1,6 @@
 # Define variables by giving them a name and a value
 
-age = 30
+age = 300
 
 # Print their values out by using the print() function
 
